@@ -1,8 +1,5 @@
 package Hash.q1;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * @author zhangjingyu
  * @version V1.0
@@ -17,13 +14,12 @@ public class Solution1 {
      * @param target
      * @return int[]
      * @Title twoSum
-     * @Description //
+     * @Description //TODO
      * @author zhangjingyu
-     * @date 16:36 2020/8/12
+     * @date 16:56 2020/8/12
      * @version V1.0.0
      */
     public int[] twoSum(int[] nums, int target) {
-        Map<Object, Object> objectObjectHashMap = new HashMap<>();
         int[] result = new int[2];
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
