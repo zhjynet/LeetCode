@@ -1,11 +1,11 @@
-package Hash.q1;
+package hash.q1;
 
 /**
  * @author zhangjingyu
  * @version V1.0
  * @Title: Solution1
  * @Package Hash.q1
- * @Description:  暴力
+ * @Description: 暴力
  * @date 2020/8/12 16:19
  */
 public class Solution1 {

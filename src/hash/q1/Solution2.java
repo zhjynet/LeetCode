@@ -1,4 +1,4 @@
-package Hash.q1;
+package hash.q1;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -23,7 +23,7 @@ public class Solution2 {
      * @version V1.0.0
      */
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>(16);
         for (int i = 0; i < nums.length; i++) {
             int temp = target - nums[i];
             if (map.containsKey(temp)) {

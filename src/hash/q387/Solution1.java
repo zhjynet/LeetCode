@@ -1,4 +1,4 @@
-package Hash.q387;
+package hash.q387;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -23,7 +23,7 @@ public class Solution1 {
      */
     public int firstUniqChar(String s) {
         int length = s.length();
-        Map<Character, Integer> map = new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>(16);
         for (int i = 0; i < length; i++) {
             char c = s.charAt(i);
 

@@ -1,4 +1,4 @@
-package LinkedList.q2;
+package linkedlist.q2;
 
 import java.math.BigDecimal;
 
