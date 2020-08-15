@@ -18,10 +18,11 @@ public class Solution1 {
      * @Title firstUniqChar
      * @Description //TODO
      * @author zhangjingyu
-     * @date 17:33 2020/8/12
+     * @date 2020/8/13 15:22
      * @version V1.0.0
      */
     public int firstUniqChar(String s) {
+
         int length = s.length();
         Map<Character, Integer> map = new HashMap<>(16);
         for (int i = 0; i < length; i++) {
@@ -40,5 +41,9 @@ public class Solution1 {
             }
         }
         return -1;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Math.pow(2,3));
     }
 }
