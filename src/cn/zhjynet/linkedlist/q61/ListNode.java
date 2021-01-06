@@ -1,18 +1,15 @@
-package linkedlist.q25;
+package cn.zhjynet.linkedlist.q61;
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: ListNode
- * @Package linkedlist.q25
+ * @Package cn.zhjynet.linkedlist.q61
  * @Description: TODO
- * @date 2020/8/15 16:31
+ * @date 2020/8/19 16:03
  */
 public class ListNode {
     int val;
     ListNode next;
-
-    ListNode(int x) {
-        val = x;
-    }
+    ListNode(int x) { val = x; }
 }

@@ -1,10 +1,10 @@
-package linkedlist.q19;
+package cn.zhjynet.linkedlist.q19;
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: ListNode
- * @Package linkedlist.q19
+ * @Package cn.zhjynet.linkedlist.q19
  * @Description: TODO
  * @date 2020/8/14 10:37
  */

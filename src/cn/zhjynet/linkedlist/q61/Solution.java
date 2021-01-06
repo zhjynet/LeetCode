@@ -1,11 +1,11 @@
-package linkedlist.q61;
+package cn.zhjynet.linkedlist.q61;
 
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: Solution
- * @Package linkedlist.q61
+ * @Package cn.zhjynet.linkedlist.q61
  * @Description: TODO
  * @date 2020/8/19 16:03
  */

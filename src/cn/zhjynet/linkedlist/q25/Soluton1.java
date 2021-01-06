@@ -1,10 +1,10 @@
-package linkedlist.q25;
+package cn.zhjynet.linkedlist.q25;
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: Soluton1
- * @Package linkedlist.q25
+ * @Package cn.zhjynet.linkedlist.q25
  * @Description: TODO
  * @date 2020/8/17 09:59
  */
@@ -12,7 +12,7 @@ public class Soluton1 {
     /**
      * @param head 传入头结点
      * @param k    正整数
-     * @return linkedlist.q25.ListNode
+     * @return cn.zhjynet.linkedlist.q25.ListNode
      * @Title reverseKGroup
      * @Description //TODO
      * @author zhangjingyu

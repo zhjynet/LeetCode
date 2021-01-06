@@ -1,4 +1,4 @@
-package hash.q387;
+package cn.zhjynet.hash.q387;
 
 import java.util.HashMap;
 import java.util.Map;

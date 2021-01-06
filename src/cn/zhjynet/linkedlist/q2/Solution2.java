@@ -1,10 +1,10 @@
-package linkedlist.q2;
+package cn.zhjynet.linkedlist.q2;
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: Solution2
- * @Package linkedlist.q2
+ * @Package cn.zhjynet.linkedlist.q2
  * @Description: 理解链表新增和预先指针
  * @date 2020/8/14 10:37
  */
@@ -12,7 +12,7 @@ public class Solution2 {
     /**
      * @param l1
      * @param l2
-     * @return linkedlist.q2.ListNode
+     * @return cn.zhjynet.linkedlist.q2.ListNode
      * @Title addTwoNumbers
      * @Description //TODO
      * @author zhangjingyu

@@ -1,10 +1,10 @@
-package linkedlist.q19;
+package cn.zhjynet.linkedlist.q19;
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: Solution2
- * @Package linkedlist.q19
+ * @Package cn.zhjynet.linkedlist.q19
  * @Description: TODO
  * @date 2020/8/15 16:19
  */
@@ -12,7 +12,7 @@ public class Solution2 {
     /**
      * @param head
      * @param n
-     * @return linkedlist.q19.ListNode
+     * @return cn.zhjynet.linkedlist.q19.ListNode
      * @Title removeNthFromEnd
      * @Description //TODO
      * @author zhangjingyu

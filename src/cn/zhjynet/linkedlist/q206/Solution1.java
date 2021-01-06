@@ -1,17 +1,17 @@
-package linkedlist.q206;
+package cn.zhjynet.linkedlist.q206;
 
 /**
  * @author zhangjingyu
  * @version V1.0.0
  * @Title: Solution1
- * @Package linkedlist.q206
+ * @Package cn.zhjynet.linkedlist.q206
  * @Description: 双指针迭代
  * @date 2020/8/15 17:06
  */
 public class Solution1 {
     /**
      * @param head 传入节点
-     * @return linkedlist.q206.ListNode
+     * @return cn.zhjynet.linkedlist.q206.ListNode
      * @Title reverseList
      * @Description //TODO
      * @author zhangjingyu

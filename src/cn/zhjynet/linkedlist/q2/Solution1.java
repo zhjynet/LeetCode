@@ -1,4 +1,4 @@
-package linkedlist.q2;
+package cn.zhjynet.linkedlist.q2;
 
 import java.math.BigDecimal;
 
